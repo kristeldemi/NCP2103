@@ -42,7 +42,7 @@ namespace WindowsFormsApplication3
             timer1.Enabled = true;
             choice = 3;
         }
-
+//this is how you code this 
         private void timer1_Tick(object sender, EventArgs e)
         {
             if (toolStripProgressBar1.Value == 100)
